@@ -1,0 +1,124 @@
+# Copyright (C) 2015 Videos sync PDF
+# This file is distributed under the same license as the Videos sync PDF package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Videos sync PDF 1.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/video-synchro-"
+"pdf\n"
+"POT-Creation-Date: 2015-10-26 10:10:41+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: reglages/Menu_Plugins/index.php:37
+msgid "Your videos"
+msgstr ""
+
+#: reglages/Menu_Plugins/index.php:48 reglages/Menu_Plugins/modifVideo.php:80
+msgid "Name"
+msgstr ""
+
+#: reglages/Menu_Plugins/index.php:49
+msgid "Video shortcode"
+msgstr ""
+
+#: reglages/Menu_Plugins/index.php:50
+msgid "PDF shortcode"
+msgstr ""
+
+#: reglages/Menu_Plugins/index.php:51 reglages/Menu_Plugins/index.php:59
+msgid "Remove"
+msgstr ""
+
+#: reglages/Menu_Plugins/index.php:67
+msgid "Add a video"
+msgstr ""
+
+#: reglages/Menu_Plugins/index.php:71
+msgid "Do you really delete this video ?"
+msgstr ""
+
+#: reglages/Menu_Plugins/modifVideo.php:69
+msgid "Edit Video"
+msgstr ""
+
+#: reglages/Menu_Plugins/modifVideo.php:70
+msgid ""
+"Add multiple video formats to be compatible with older web browsers. The MP4 "
+"format is supported by all recent browsers, it is most important, others are "
+"not required."
+msgstr ""
+
+#: reglages/Menu_Plugins/modifVideo.php:81
+msgid "Indicatif title"
+msgstr ""
+
+#: reglages/Menu_Plugins/modifVideo.php:84
+msgid "PDF file"
+msgstr ""
+
+#: reglages/Menu_Plugins/modifVideo.php:88
+msgid "MP4 video"
+msgstr ""
+
+#: reglages/Menu_Plugins/modifVideo.php:92
+msgid "WebM video"
+msgstr ""
+
+#: reglages/Menu_Plugins/modifVideo.php:96
+msgid "OGG video"
+msgstr ""
+
+#: reglages/Menu_Plugins/modifVideo.php:103
+msgid "Add timers"
+msgstr ""
+
+#: reglages/Menu_Plugins/modifVideo.php:104
+msgid ""
+"A timer is defined like this: \"HH:MM:SS->NUMERO_PAGE\". Each line must "
+"correspond to a single timer, example below delete."
+msgstr ""
+
+#: reglages/Menu_Plugins/modifVideo.php:134
+msgid "to"
+msgstr ""
+
+#: reglages/Menu_Plugins/modifVideo.php:134
+msgid "and"
+msgstr ""
+
+#: reglages/Menu_Plugins/modifVideo.php:147
+msgid ""
+"Timers and pages need to be put in order. For example, page 2 can not be "
+"placed after the page 3 under penalty of bug."
+msgstr ""
+
+#: reglages/Menu_Plugins/modifVideo.php:150
+msgid "Edit"
+msgstr ""
+
+#: videos-snychro-pdf.php:40
+msgid "Video example"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Videos sync PDF"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Videos sync PDF 1.3)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (Videos sync PDF 1.3)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://www.a-j-evolution.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Synchronize an HTML5 video with a simple PDF file !"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "JANSSENS Arthur"
+msgstr ""
